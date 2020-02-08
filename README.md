@@ -3,7 +3,7 @@ Contains Files that allow a user to convert an XSD File to an XML.
 This is done by the creating a generic GUI that allows users to enter the information that is to be included within the XML File.
 The nodes within the GUI are created based on the XSD FIle specified 
 
-Information about classes:
+Information about classes present with src in XML Generator:
 
 1. reflection: Contains source code required to retrive important information from classes such as the dattypes and names of variables available. Also allows for these values of variables to be edited and retrived.
 
